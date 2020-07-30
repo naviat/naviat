@@ -1,5 +1,23 @@
 ### Hi there 👋
 
+###### Sup! Here's **Naviat**! 🤓 
+
+###### The name's Hai, DevOps/☁️! I love languages, travelling and programming 😄
+
+[![Mallowigi's github stats](https://github-readme-stats.vercel.app/api?username=naviat&count_private=true&show_icons=true&theme=radical&show_owner=true)](https://github.com/naviat)
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=naviat&repo=james-project&theme=radical)](https://github.com/apache/james-project)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=linagora&repo=openpaas-esn&theme=nightowl)](https://github.com/linagora/openpaas-esn)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=naviat&repo=aws-alias-cli&theme=dracula)](https://github.com/naviat/aws-alias-cli)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=linagora&repo=linshare&theme=tokyonight)](https://github.com/linagora/linshare)
+<!--[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mallowigi&repo=notifications-preview-github&theme=cobalt)](https://github.com/mallowigi/notifications-preview-github)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mallowigi&repo=a-file-icon-web&theme=onedark)](https://github.com/mallowigi/a-file-icon-web)-->
+
+
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naviat&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **naviat/naviat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
