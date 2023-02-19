@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Hai <`hi`> </h1>
+<h1 align="center">Hi 👋, I'm Hai <`hi`>, you can call me Harry </h1> 
 <h3 align="center">A Site Reliability Engineer and DevOps Engineer from Vietnam</h3>
 
 - 🔭 **Available to Hire in Vietnam and US/CA**
