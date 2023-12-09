@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hai, you can call me Harry </h1> 
 <h3 align="center">Site Reliability Engineer/DevOps Engineer and Platform Engineering</h3>
 
-- 🔭 **Available to Hire in US/CA**
+- 🔭 **Available to Hire in US/CA/SG**
 - https://me.haidv.tech 
 
 - 📫 How to reach me **contact@haidv.tech**
