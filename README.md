@@ -3,7 +3,9 @@
 
 - 🔭 **Available to Hire in US/CA/SG**
 
-- 🗒️ https://me.haidv.tech 
+- 🗒️ <https://me.haidv.tech>
+
+- 🧑🏻‍💻 <https://blog.haidv.tech>
 
 - 📫 How to reach me **contact@haidv.tech**
 
