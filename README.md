@@ -3,11 +3,11 @@
 
 - 🔭 **Available to Hire in US/CA/SG**
 
-- 🗒️ <https://me.haidv.tech>
+- 🗒️ <https://me.harrydam.dev>
 
-- 🧑🏻‍💻 <https://blog.haidv.tech>
+- 🧑🏻‍💻 <https://blog.harrydam.dev>
 
-- 📫 How to reach me **contact@haidv.tech**
+- 📫 How to reach me **contact@harrydam.dev**
 
 - 📄Find me on LinkedIn [https://www.linkedin.com/in/haidv/](https://www.linkedin.com/in/haidv/)
 
