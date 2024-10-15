@@ -7,7 +7,7 @@
 
 - 🧑🏻‍💻 <https://blog.harrydam.dev>
 
-- 📫 How to reach me **contact@harrydam.dev**
+- 📫 How to reach me **haidv.ict@gmail.com**
 
 - 📄Find me on LinkedIn [https://www.linkedin.com/in/haidv/](https://www.linkedin.com/in/haidv/)
 
