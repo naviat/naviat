@@ -9,7 +9,6 @@
 
 - 📫 How to reach me **haidv.ict@gmail.com**
 
-- 📄Find me on LinkedIn [https://www.linkedin.com/in/haidv/](https://www.linkedin.com/in/haidv/)
 
 ![Snake animation](https://github.com/naviat/naviat/blob/output-snake/github-contribution-grid-snake.svg)
 
